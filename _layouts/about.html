@@ -27,10 +27,10 @@ layout: default
       "img-fluid z-depth-1 rounded" -%} {% endif %} {% include figure.html
       path=profile_image_path class=profile_image_class alt=page.profile.image
       cache_bust=true -%} {% endif -%} {%- if page.profile.more_info %}
-      <!-- <div class="more-info">{{ page.profile.more_info }}</div> -->
-      <div class="more-info">
+      <div class="more-info">{{ page.profile.more_info }}</div>
+      <!-- <div class="more-info">
         <div class="contact-icons">{% include social.html %}</div>
-      </div>
+      </div> -->
       {%- endif %}
     </div>
     {%- endif %}

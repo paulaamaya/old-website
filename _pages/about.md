@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>University of Calgary</a> • <a href='#'>Faculty of Science</a>
+subtitle: <a href=''>University of Calgary</a> • <a href='#'>Faculty of Science</a>
 profile:
   align: right
   image: prof_pic.jpg

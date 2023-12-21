@@ -57,7 +57,7 @@ table.table a {
 
 figure,
 img {
-  max-width: 90vw;
+  max-width: 100%;
 }
 
 blockquote {
@@ -127,6 +127,11 @@ blockquote {
   }
 }
 
+.container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 // Math
 
 .equation {
@@ -175,6 +180,11 @@ blockquote {
 }
 
 // Profile
+.clearfix {
+  p {
+    display: table;
+  }
+}
 
 .profile {
   width: 100%;
@@ -418,6 +428,10 @@ blockquote {
 }
 
 // Footer
+footer {
+  text-align: center;
+}
+
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;

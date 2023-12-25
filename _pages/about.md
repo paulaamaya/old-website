@@ -19,6 +19,6 @@ I am an undergraduate student at the University of Calgary with an interest in s
 
 Currently, I am focused on programming languages, information theory, and embedded systems. In my [projects](/projects), I aim to transform theoretical concepts into practical tools.
 
-Outside of academic pursuits, I work with the embedded systems team at the [University of Calgary Solar Car](https://calgarysolarcar.ca/) and share insights on scientific topics at [The Dirac Dossier]().
+Outside of academic pursuits, I work with the embedded systems team at the [University of Calgary Solar Car](https://calgarysolarcar.ca/) and share insights on technical topics at [The Dirac Dossier]().
 
 I am always looking for collaboration with academic and industry partners. Please feel free to contact me through the provided channels below.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started contributing to [The Dirac Dossier]() as a freelance science journalist :pencil:
+Started contributing to [The Dirac Dossier]() as a freelance science writer :pencil:

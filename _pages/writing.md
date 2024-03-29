@@ -2,7 +2,7 @@
 layout: page
 permalink: /writing/
 title: Writing
-description: coming soon.
+description: Coming soon.
 nav: true
 nav_order: 5
 ---

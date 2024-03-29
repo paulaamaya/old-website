@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 2
 cv_pdf: Paula_Amaya_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Updated March 2024.  This is an abridged version of my CV. For the complete version, please refer to the PDF linked at the top of this page.
 toc:
   sidebar: left
 ---

@@ -21,31 +21,30 @@
     - title: Embedded C/C++ Developer
       institution: University of Calgary Solar Car, Canada
       year: 2022 - Present
+      description:
+        - Design, implement, and optimize software solutions for electronic control systems using a C/C++ development environment.
+        - Participate in the development of a custom master battery management system.
+        - Research and write documentation on the battery management system.
 
     - title: Science Writer
       institution: The Dirac Dossier, Canada
       year: 2023 - Present
+      description:
+        - Compose articles covering math and computer science.
+        - Research, analyze, and distill complex technical concepts into compelling and accessible narratives.
+        - Create data visualizations for publication using MATLAB and Python.
 
     - title: Risk Strategy Intern
       institution: Wave Financial, Canada
       year: 2022
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - Dean's List
+      description:
+        - Planned, developed, and delivered database documentation for tables stored in Amazon Redshift.
+        - Developed relational database functions in SQL.
+        - Created and deployed a real-time analytics dashboard using Python, Numpy, and Pyplot.
 
 - title: Skills
   type: list
   contents:
-    - <u>Programming Languages:</u> Python, MATLAB, C, HTML/CSS, JavaScript.
-    - <u>Libraries:</u> Matplotlib, Pandas.
+    - <u>Programming Languages:</u> Python, MATLAB, C/C++, SQL, HTML/CSS, JavaScript.
+    - <u>Libraries:</u> Numpy, Matplotlib, Pandas, Pyplot.
+    - <u>Tools/Technologies:</u> Linux (Arch), Git, Jira.

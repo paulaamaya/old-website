@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.ucalgary.ca/'>University of Calgary</a> • <a href='https://science.ucalgary.ca/'>Faculty of Science</a>
 profile:

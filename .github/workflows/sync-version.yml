@@ -5,6 +5,11 @@ on:
     - cron: "0 0 1 * *"
   # manual trigger
   workflow_dispatch:
+
+permissions:
+  contents: write  # Required to push changes
+  workflows: write # Required to update workflow files
+
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
